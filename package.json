@@ -1,0 +1,20 @@
+{
+  "name": "rss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dateformat": "^3.0.3",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "sbd": "^1.0.14",
+    "striptags": "^3.1.1",
+    "uuid": "^3.3.2",
+    "xml2js": "^0.4.19"
+  }
+}
